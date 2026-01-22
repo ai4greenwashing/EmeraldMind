@@ -24,7 +24,7 @@ If you use EmeraldMind, EmeraldGraph, or EmeraldData in your research, please ci
 
 ```
 @inproceedings{kaoukis2026emeraldmind,
-  author = {Kaoukis, Georgios and Koufopoulos, Ioannis-Aris and Psaroudaki, Eleni and Karidi, Danae Pla and Pitoura, Evaggelia and Papastefanatos, George and Tsaparas, Panayiotis},
+  author = {Kaoukis, Georgios and Koufopoulos, Ioannis-Aris and Psaroudaki, Eleni and Karidi, Danae Pla Karidi and Pitoura, Evaggelia and Papastefanatos, George and Tsaparas, Panayiotis},
   title = {EmeraldMind: A Knowledge Graph-Augmented Framework for Greenwashing Detection},
   booktitle = {Proceedings of the ACM Web Conference 2026 (WWW '26)},
   year = {2026},
@@ -40,7 +40,7 @@ If you use EmeraldMind, EmeraldGraph, or EmeraldData in your research, please ci
 emeraldmind/
 ├── claim_gen_scripts/       # Scripts for generating the Emerald Data
 ├── schemas/                 # Schemas defining relationship and classification logic
-├── data/                    # Compressed source data (images, text, KPIs)
+├── data/                    # Compressed ESG report data (images, text, KPIs)
 ├── datasets/                # Processed datasets (Green Claims, Emerald Data)
 ├── figures/                 # Assets
 ├── llm_judge_scripts/       # Evaluation scripts using LLMs (ranking, ILORA)
